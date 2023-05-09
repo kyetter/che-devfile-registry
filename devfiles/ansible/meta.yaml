@@ -1,0 +1,7 @@
+---
+displayName: Ansible
+description: Stack with environment ready to develop and test ansible playbooks.
+tags: ["Ansible", "Molecule"]
+icon: /images/che.svg
+links:
+  v2: https://github.com/kyetter/ansible-devspace-demo/tree/main
